@@ -90,12 +90,7 @@ const ret = array.map(parseInt)
 // console.log(parseInt('2333',4)) // 191
 // console.log(parseInt('2333',6)) // 561  
 // console.log(parseInt('2333',2)) // NaN
-console.log(parseInt('1',2)) // 
-console.log(parseInt('2',2)) // 
-console.log(parseInt('3',2)) // 
-console.log(parseInt('4',2)) // 
-console.log(parseInt('5',2)) // 
-console.log(parseInt('10',2)) // 
+
 
 
 
